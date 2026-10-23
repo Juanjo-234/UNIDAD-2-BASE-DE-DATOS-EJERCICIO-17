@@ -11,4 +11,5 @@ El modelo debe contemplar:
 - Aplicaciones de vacunas: asociar las vacunas aplicadas a cada mascota, indicando la fecha de aplicación y la fecha sugerida para el próximo refuerzo.
 
 Finalmente, se deben identificar las entidades, sus atributos, las relaciones y las cardinalidades, teniendo en cuenta que un tutor puede tener varias mascotas, un veterinario puede atender múltiples consultas y una mascota puede recibir varias vacunas a lo largo del tiempo.
-<img width="2002" height="1542" alt="EJERCICIO 17 drawio" src="https://github.com/user-attachments/assets/3b7246e5-b5c3-428d-99d2-996f82f39c46" />
+<img width="2002" height="1542" alt="EJERCICIO 17 drawio" src="https://github.com/user-attachments/assets/6e188598-5d5b-40ac-8f4d-619bb362cdb9" />
+
